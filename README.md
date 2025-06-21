@@ -8,10 +8,10 @@ A **console-based Hotel Booking Management System** developed in **Core Java** w
 
  Technologies Used
 
-* 💻 **Java (Core Java - JDBC)**
-* 🗃️ **MySQL (phpMyAdmin or MySQL Workbench)**
-* ⚙️ **JDBC (Java Database Connectivity)**
-* 📋 **Command-Line Interface (CLI)**
+*  **Java (Core Java - JDBC)**
+*  **MySQL (phpMyAdmin or MySQL Workbench)**
+*  **JDBC (Java Database Connectivity)**
+*  **Command-Line Interface (CLI)**
 
 ---
 
@@ -45,7 +45,7 @@ Database Name: `hotel_booking`
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Install **MySQL** and create the `hotel_booking` database.
 2. Import the required tables using the provided SQL file or your schema.
@@ -55,7 +55,7 @@ Database Name: `hotel_booking`
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![{9DC21DB9-8EEC-4D8B-ADAC-BAB64825DACC}](https://github.com/user-attachments/assets/f3783838-afbd-457e-90e2-466527a99049)
 
@@ -78,6 +78,7 @@ https://github.com/user-attachments/assets/7442eab6-503c-40b8-a304-4414f63ec99e
 ## 🧑‍💻 Author
 
 **Praneeth Kolagani**
+
 Core Java Developer | Database Integrator
 India 🇮🇳
 
